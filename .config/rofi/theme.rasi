@@ -1,0 +1,60 @@
+window {
+	width: 25%;
+	padding: 20;
+	background-color: #000000;
+}
+
+inputbar {
+	border: 4;
+	padding: 4;
+	border-radius: 3;
+	border-color: #000000;
+	background-color: #000000;
+	text-color: #ffffff;
+}
+
+prompt {
+	background-color: #000000;
+	text-color: #ffffff;
+}
+
+entry {
+	background-color: #000000;
+	text-color: #ffffff;
+}
+
+mainbox {
+	background-color: #000000;
+}
+
+case-indicator {
+	background-color: #000000;
+}
+
+message {
+	background-color: #000000;
+}
+
+textbox {
+	background-color: #000000;
+}
+
+listview {
+	lines:  15;
+	background-color: #000000;
+}
+
+element {
+	background-color: #000000;
+}
+
+element-text {
+	padding: 7;
+	background-color: #000000;
+	highlight: underline;
+	text-color: #ffffff;
+}
+
+element-text selected {
+	background-color: #222222;
+}
